@@ -7,19 +7,19 @@ This repository contains my learning journey with the C++
 ### Basic Syntax of C++
 
 
-1. Intro & Variable
+01. Intro & Variable
 
-2. Basic Syntax & Debigging
+02. Basic Syntax & Debigging
 
-3. Function
+03. Function
 
-4. Pointer & Reference
+04. Pointer & Reference
 
-5. OOP part 1 & part 2
+05. OOP part 1 & part 2
 
-6. Inheritance
+06. Inheritance
 
-7. Polymorphism
+07. Polymorphism
 
 
 
@@ -27,9 +27,9 @@ This repository contains my learning journey with the C++
 
 
 
-8. Operator Overloading
+08. Operator Overloading
 
-9. Generic Programming
+09. Generic Programming
 
 10. STL (Standard Template Library)
 
